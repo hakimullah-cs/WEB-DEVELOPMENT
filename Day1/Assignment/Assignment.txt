@@ -1,0 +1,4 @@
+1.What are Language,Library,Framework and its differeces?
+2.What are Website,Web Application,Desktop Application,Mobile Applications?
+3.what is the difference b/w HTTP and HTTPS?
+4.Download visual studio code
